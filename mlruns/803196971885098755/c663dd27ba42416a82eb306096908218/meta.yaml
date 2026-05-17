@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/803196971885098755/c663dd27ba42416a82eb306096908218/artifacts
+end_time: 1779039454285
+entry_point_name: ''
+experiment_id: '803196971885098755'
+lifecycle_stage: active
+run_id: c663dd27ba42416a82eb306096908218
+run_name: bittersweet-boar-844
+run_uuid: c663dd27ba42416a82eb306096908218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779039453736
+status: 3
+tags: []
+user_id: pooji

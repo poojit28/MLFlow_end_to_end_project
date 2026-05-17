@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/803196971885098755/59a4bcfec4e244daa5379820455461d7/artifacts
+end_time: 1779044122411
+entry_point_name: ''
+experiment_id: '803196971885098755'
+lifecycle_stage: active
+run_id: 59a4bcfec4e244daa5379820455461d7
+run_name: resilient-mole-970
+run_uuid: 59a4bcfec4e244daa5379820455461d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779044104878
+status: 3
+tags: []
+user_id: pooji

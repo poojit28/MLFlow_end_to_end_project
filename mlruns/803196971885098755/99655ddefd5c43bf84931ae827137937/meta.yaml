@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/803196971885098755/99655ddefd5c43bf84931ae827137937/artifacts
+end_time: 1779039956412
+entry_point_name: ''
+experiment_id: '803196971885098755'
+lifecycle_stage: active
+run_id: 99655ddefd5c43bf84931ae827137937
+run_name: rare-stoat-298
+run_uuid: 99655ddefd5c43bf84931ae827137937
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779039934896
+status: 3
+tags: []
+user_id: pooji

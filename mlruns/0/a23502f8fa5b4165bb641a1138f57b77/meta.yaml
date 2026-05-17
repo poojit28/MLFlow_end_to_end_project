@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a23502f8fa5b4165bb641a1138f57b77/artifacts
+end_time: 1779038221559
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a23502f8fa5b4165bb641a1138f57b77
+run_name: gaudy-flea-82
+run_uuid: a23502f8fa5b4165bb641a1138f57b77
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779038218314
+status: 3
+tags: []
+user_id: pooji

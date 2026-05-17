@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/592a4e0ae082474bb855488339ca8fbf/artifacts
+end_time: 1779038063525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 592a4e0ae082474bb855488339ca8fbf
+run_name: bedecked-snipe-706
+run_uuid: 592a4e0ae082474bb855488339ca8fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779038062565
+status: 4
+tags: []
+user_id: pooji
